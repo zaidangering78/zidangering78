@@ -1,0 +1,6 @@
+{
+  "name": "Raka Pratama — Portofolio Teknik Instalasi Tenaga Listrik",
+  "description": "Portofolio digital teknisi instalasi tenaga listrik (TITL): profil, pengalaman kerja, galeri proyek panel & motor 3 fasa, sertifikat kompetensi, dan keahlian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
